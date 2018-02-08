@@ -1,4 +1,4 @@
-haarHuffman
+## haarHuffman
 
 HaarWavelet + Huffman Encoding/Decoding for Lossless Images (Java)
 
